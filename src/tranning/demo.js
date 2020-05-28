@@ -1,4 +1,4 @@
-//1 Create store
+//1 Tao moi mot store
 import {createStore} from 'redux'
 import {status, sort } from './actions/index'
 import myReducer from './reducers/index'
